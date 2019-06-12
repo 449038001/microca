@@ -1,0 +1,16 @@
+/.idea/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+config
+workspace.xml
+/logs
+/certs
+/users
+/database/*
+.DS_Store
+/__pycache__/
+*.pyc
